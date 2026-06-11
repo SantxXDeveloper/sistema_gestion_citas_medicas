@@ -42,9 +42,9 @@ Asegúrate de tener instalado Python 3.7 o superior. También necesitas instalar
 
 Para ejecutar el sistema, simplemente ejecuta el archivo `main.py`: 
 
-    ```bash
-    python app/main.py
-    ```
+  ```bash
+  python app/main.py
+  ```
 
 
 ## Lista de Verificación
