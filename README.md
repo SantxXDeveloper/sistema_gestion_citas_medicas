@@ -40,16 +40,13 @@ Asegúrate de tener instalado Python 3.7 o superior. También necesitas instalar
 
 ## Uso
 
-Para ejecutar el sistema, simplemente ejecuta el archivo `main.py`:
-
-```bash
-python app/main.py
+Para ejecutar el sistema, simplemente ejecuta el archivo `main.py`: python app/main.py
 
 
 
-### Lista de Verificación para el Proyecto de Sistema de Gestión de Citas Médicas
+## Lista de Verificación para el Proyecto de Sistema de Gestión de Citas Médicas
 
-#### **1. Verificación de Funcionalidad**
+### **1. Verificación de Funcionalidad**
 
 - [R] **Agregar Paciente:**
   - [R] Permite agregar un nuevo paciente con todos los atributos requeridos (ID, nombre, correo, teléfono).
