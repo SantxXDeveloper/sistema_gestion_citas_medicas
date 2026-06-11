@@ -44,7 +44,7 @@ Para ejecutar el sistema, simplemente ejecuta el archivo `main.py`: python app/m
 
 
 
-## Lista de Verificación para el Proyecto de Sistema de Gestión de Citas Médicas
+## Lista de Verificación
 
 ### **1. Verificación de Funcionalidad**
 
