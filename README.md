@@ -40,8 +40,11 @@ Asegúrate de tener instalado Python 3.7 o superior. También necesitas instalar
 
 ## Uso
 
-Para ejecutar el sistema, simplemente ejecuta el archivo `main.py`: python app/main.py
+Para ejecutar el sistema, simplemente ejecuta el archivo `main.py`: 
 
+    ```bash
+    python app/main.py
+    ```
 
 
 ## Lista de Verificación
